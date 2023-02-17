@@ -1,0 +1,14 @@
+python==3.6.10
+torch==1.5.1
+tqdm==4.29.1
+numpy==1.15.4
+spacy==2.1.0
+corenlp==4.2
+transformers==4.2.2
+nltk
+tensorboardX
+scikit-learn
+pyemd
+pyxtension
+jpype1==0.6.3
+en_core_web_sm

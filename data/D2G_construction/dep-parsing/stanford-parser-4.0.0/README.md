@@ -1,0 +1,1 @@
+Please download the `stanford-parser.jar` file and `stanford-parser-4.0.0-models.jar` file from [CoreNLP](https://stanfordnlp.github.io/CoreNLP/download.html)
