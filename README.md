@@ -1,9 +1,13 @@
-# Implementation of IJCAI Paper [Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction](https://www.ijcai.org/proceedings/2022/0570.pdf)
+**Python implementation of IJCAI 2022 Paper [Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction](https://www.ijcai.org/proceedings/2022/0570.pdf)**
+
+----------
 
 # Requirement
 
 Install the packages as in `requirement.txt`.
-
+```bash
+pip install -r requirement.txt
+```
 
 # Data Preprocessing
 
